@@ -1,0 +1,5 @@
+name: test
+variables:
+  - name: test
+    value: some text
+    description: ""
